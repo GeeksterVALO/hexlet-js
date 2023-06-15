@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "main npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeeksterVALO/hexlet-js.git"
+  },
+  "author": "GeeksterVALO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeeksterVALO/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/GeeksterVALO/hexlet-js#readme"
+}
